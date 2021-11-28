@@ -1,12 +1,15 @@
 html,
 body {
-    margin: 0;
-    padding: 0;
+    margin: 2;
+    padding: 2;
     background-color: beige;
     text-align: center;
 }
 
-h1,
+h1 {
+    color: darkred;
+}
+
 h2 {
     color: darkred;
 }
@@ -76,7 +79,7 @@ nav a:hover {
 
 table {
     border: 3px solid black;
-    width: 100%;
+    width: 40%;
 }
   
 td,
